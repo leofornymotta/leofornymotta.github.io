@@ -1,0 +1,25 @@
+#myvideo{
+    position: fixed;
+    right: 0%;
+    bottom:0%;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1000;
+  }
+  .content {
+    top: 0;
+  background:black{0,0,0,0,5}
+    color: cornsilk(248, 12, 12);
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  h1,h3{
+    text-align: center;
+  }
+p,li{text-align: center;}  
+ br{
+     text-align: center;
+ }
+    
+    
